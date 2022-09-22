@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🖥️ jtg-code profile 🖥️
 
 
 - 🔭 I’m currently working on<br>
