@@ -17,7 +17,7 @@
 - ✨ DevSince = 2016
 - ✨ MainTheme = "FiveM"
 - ✨ Experience = 5.5
-- ✨ Hobbys = {
+- ✨ Hobbys = { <br>
   "Gym" <br>
   "Games" <br>
   "Programm" <br>
