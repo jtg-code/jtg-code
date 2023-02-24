@@ -2,8 +2,8 @@
 
 
 - 👨‍💼 Working on: <br>
-  *Anki Overdrive for Windows* <br>
-  *Fly_Roleplay V2* <br>
+  *Anki Overdrive for Windows*🚗 <br>
+  *Fly_Roleplay V2*👨 <br>
   
 - 👨‍🎓 Learning: <br>
   *Javascript* <br>
