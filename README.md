@@ -16,7 +16,7 @@
 - ✨ SearchTeam = true
 - ✨ DevSince = 2016
 - ✨ MainTheme = "FiveM"
-- ✨ Experience = 6.5
+- ✨ Experience = 7.5
 - ✨ Hobbys = { <br>
   "Gym" <br>
   "Games" <br>
