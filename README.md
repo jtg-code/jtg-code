@@ -1,24 +1,9 @@
-### 🖥️ jtg-code profile 🖥️
+### 🖥️ Julius G. Information 🖥️
 
 
 - 👨‍💼 Working on: <br>
-  *Anki Overdrive for Windows*🚗 <br>
-  *Fly_Roleplay V2*👨 <br>
+  *Anki SDK for Windows V2*🚗 <br>
+
+  - Based on V1
+  - Compatible with Old Scripts
   
-- 👨‍🎓 Learning: <br>
-  *Javascript* <br>
-  *HTML/CSS* <br>
-  
-- 👥 Team for: <br>
-  *FiveM stuff* <br>
-  *HTML/CSS stuff* <br>
-  
-- ✨ SearchTeam = true
-- ✨ DevSince = 2016
-- ✨ MainTheme = "FiveM"
-- ✨ Experience = 7.5
-- ✨ Hobbys = { <br>
-  "Gym" <br>
-  "Games" <br>
-  "Programm" <br>
-  }
