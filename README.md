@@ -73,7 +73,14 @@
 
   ### 📬 Connect with me
   
-  [![NoCheats App](https://img.shields.io/badge/NoCheats_App-app.no--cheats.de-6C5CE7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://app.no-cheats.de)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jtg-code)
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xcBuQWyp9)
+  <a href="https://app.no-cheats.de">
+    <img src="https://img.shields.io/badge/NoCheats-Web%20App-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="NoCheats App" />
+  </a>
+  <a href="https://github.com/jtg-code">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
 </div>
