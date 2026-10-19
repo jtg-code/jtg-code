@@ -1,13 +1,13 @@
 <div align="center">
 
-  # Hey, ich bin jtg-code 👋
+  # Hey, ich bin Julius 👋
   ### 🎧 Developer & Creator | Audio Tools • AI • Reverse Engineering
 
   ---
 
   <p align="center">
     <a href="https://github.com/jtg-code">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=6C5CE7&center=true&vCenter=true&width=600&lines=Python+%7C+C%2B%2B+%7C+Lua+%7C+JavaScript;Building+NoCheats+(AI+Audio+Tools);BLE+Reverse+Engineering+%2C+Discord+Bots;FiveM+%26+ESX+Development..." alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=6C5CE7&center=true&vCenter=true&width=550&lines=Python+%7C+Flask+%7C+JavaScript+%7C+C%2B%2B;AI+for+Music+Producers+%7C+NoCheats;FiveM+%7C+ESX+%7C+Lua+Development;BLE+Reverse+Engineering+%7C+Discord+Bots" alt="Typing SVG" />
     </a>
   </p>
 
@@ -15,12 +15,13 @@
 
 </div>
 
-## 🎵 Highlight Project: NoCheats
+## 🎵 Highlight Project: [NoCheats](https://app.no-cheats.de)
 
-> **NoCheats** ist eine intelligente Kreativanwendung & VST-Plugin-Suite für Musikproduzenten und Independent-Musiker. Mithilfe von KI-Unterstützung hilft es Künstlern dabei, ihren Workflow zu inspirieren und den kreativen Prozess beim Songwriting & Producing zu beschleunigen.
+> [**NoCheats**](https://app.no-cheats.de) ist eine intelligente Kreativanwendung & VST-Plugin-Suite für Musikproduzenten und Independent-Musiker. Mithilfe von KI-Unterstützung hilft es Künstlern dabei, ihren Workflow zu inspirieren und den kreativen Prozess beim Songwriting & Producing zu beschleunigen.
 
 * **Fokus:** KI-gestützte Musikerstellung & intuitive Plugin-Workflows
 * **Tech-Core:** Python • Flask • JavaScript • HTML/CSS
+* **Live-Plattform:** [app.no-cheats.de](https://app.no-cheats.de)
 
 ---
 
@@ -40,10 +41,10 @@
   <br/>
 
   ### Specialized & Ecosystems
-  ![Discord API](https://img.shields.io/badge/Discord%20Bot%20API-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-  ![BLE](https://img.shields.io/badge/BLE%20Reverse%20Engineering-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
-  ![FiveM](https://img.shields.io/badge/FiveM-FF4141?style=for-the-badge&logo=gtav&logoColor=white)
-  ![ESX Framework](https://img.shields.io/badge/ESX%20Framework-00A8FF?style=for-the-badge&logo=codeforces&logoColor=white)
+  ![BLE Reverse Engineering](https://img.shields.io/badge/BLE-Reverse_Engineering-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
+  ![Discord Bot API](https://img.shields.io/badge/Discord_Bot_API-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+  ![FiveM](https://img.shields.io/badge/FiveM-FF4500?style=for-the-badge&logo=gtav&logoColor=white)
+  ![ESX Framework](https://img.shields.io/badge/ESX_Framework-00D1B2?style=for-the-badge&logo=codeforces&logoColor=white)
 
 </div>
 
@@ -72,7 +73,7 @@
 
   ### 📬 Connect with me
   
+  [![NoCheats App](https://img.shields.io/badge/NoCheats_App-app.no--cheats.de-6C5CE7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://app.no-cheats.de)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jtg-code)
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xcBuQWyp9)
-
+  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xcBuQWyp9)
 </div>
