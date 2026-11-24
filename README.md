@@ -19,9 +19,9 @@
 
 > **[NoCheats](https://app.no-cheats.de)** ist eine intelligente Kreativanwendung & VST-Plugin-Suite für Musikproduzenten und Independent-Musiker. Mithilfe von KI-Unterstützung hilft es Künstlern dabei, ihren Workflow zu inspirieren und den kreativen Prozess beim Songwriting & Producing zu beschleunigen.
 
-* **🚀 App live ausprobieren:** [app.no-cheats.de](https://app.no-cheats.de)
-* **💡 Fokus:** KI-gestützte Musikerstellung & intuitive Plugin-Workflows
-* **🛠 Tech-Core:** Python • Flask • JavaScript • HTML/CSS
+- **🚀 App live ausprobieren:** [app.no-cheats.de](https://app.no-cheats.de)
+- **💡 Fokus:** KI-gestützte Musikerstellung & intuitive Plugin-Workflows
+- **🛠 Tech-Core:** Python • Flask • JavaScript • HTML/CSS
 
 ---
 
@@ -44,7 +44,7 @@
 <div align="center">
 
   ![Discord Bot API](https://img.shields.io/badge/Discord%20Bot%20API-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-  ![RAW BLE HEXA Communication](https://img.shields.io/badge/RAW-BLE%20HEXA-Communication-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
+  ![RAW BLE HEXA Communication](https://img.shields.io/badge/RAW%20BLE%20HEXA--Communication-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
   ![FiveM](https://img.shields.io/badge/FiveM-FF4500?style=for-the-badge&logo=fivem&logoColor=white)
   ![ESX Framework](https://img.shields.io/badge/ESX-Framework-00D1B2?style=for-the-badge)
 
