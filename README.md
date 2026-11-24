@@ -44,7 +44,7 @@
 <div align="center">
 
   ![Discord Bot API](https://img.shields.io/badge/Discord%20Bot%20API-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-  ![BLE Reverse Engineering](https://img.shields.io/badge/BLE-Reverse%20Engineering-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
+  ![RAW BLE HEXA Communication](https://img.shields.io/badge/RAW-BLE%20HEXA-Communication-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
   ![FiveM](https://img.shields.io/badge/FiveM-FF4500?style=for-the-badge&logo=fivem&logoColor=white)
   ![ESX Framework](https://img.shields.io/badge/ESX-Framework-00D1B2?style=for-the-badge)
 
