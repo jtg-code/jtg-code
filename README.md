@@ -7,7 +7,7 @@
 
   <p align="center">
     <a href="https://github.com/jtg-code">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=6C5CE7&center=true&vCenter=true&width=550&lines=Python+%7C+C%2B%2B+%7C+Lua+%7C+Flask+%7C+JavaScript;Crafting+AI+for+Music+Producers;Building+NoCheats...;Reverse+Engineering+%26+Discord+Bots" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=6C5CE7&center=true&vCenter=true&width=550&lines=Python+%7C+C%2B%2B+%7C+Rust+%7C+Lua+%7C+Flask+%7C+JavaScript;Crafting+AI+for+Music+Producers;Building+NoCheats...;Reverse+Engineering+%26+Discord+Bots" alt="Typing SVG" />
     </a>
   </p>
 
@@ -32,6 +32,7 @@
 
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+  ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
   ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
   ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
