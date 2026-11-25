@@ -44,6 +44,7 @@
 ### 🔌 APIs, Reverse Engineering & Gaming
 <div align="center">
 
+  ![AI Tools](https://img.shields.io/badge/AI%20Tools-6C5CE7?style=for-the-badge&logo=probot&logoColor=white)
   ![Discord Bot API](https://img.shields.io/badge/Discord%20Bot%20API-5865F2?style=for-the-badge&logo=discord&logoColor=white)
   ![RAW BLE HEXA Communication](https://img.shields.io/badge/RAW%20BLE%20HEXA--Communication-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
   ![FiveM](https://img.shields.io/badge/FiveM-FF4500?style=for-the-badge&logo=fivem&logoColor=white)
